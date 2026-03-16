@@ -23,5 +23,12 @@ Git / GitHub · Vite · Vercel · Jest
 
 ---
 
+## 🎯 Currently Learning
+* Advanced TypeScript patterns
+* Testing with Jest & React Testing Library
+* Frontend architecture and best practices
+
+---
+
 ## 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/seb-oll-0188133a4/) · [ateeew@gmail.com](mailto:ateeew@gmail.com)
