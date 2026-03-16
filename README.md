@@ -31,4 +31,4 @@ Git / GitHub · Vite · Vercel · Jest
 ---
 
 ## 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/seb-oll-0188133a4/) · [ateeew@gmail.com](mailto:ateeew@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/seb-o-0188133a4/) · [ateeew@gmail.com](mailto:ateeew@gmail.com)
