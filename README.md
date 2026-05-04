@@ -18,7 +18,7 @@ Git / GitHub · Vite · Vercel · Jest
 
 | Projet | Demo | Code |
 |--------|------|------|
-| JGS-ELEC — Client project, live production site —  | [▶ Live]([https://www.jgs-elec.com/]) | [GitHub]([https://github.com/atteewf/jgs-elec]) |
+| JGS-ELEC — Client project, live production site —  | [▶ Live](https://www.jgs-elec.com/) | [GitHub](https://github.com/atteewf/jgs-elec) |
 | React Room Booking App | [▶ Live](https://react-reservation-salle.vercel.app) | [GitHub](https://github.com/atteewf/react-reservation-salle) |
 | TypeScript Emoji Tracker | [▶ Live](https://typescript-emoji-tracker.vercel.app) | [GitHub](https://github.com/atteewf/typescript-emoji-tracker) |
 | React Portfolio Management | [▶ Live](https://gestion-portefeuille-teal.vercel.app/) | [GitHub](https://github.com/atteewf/gestion-portefeuille) |
