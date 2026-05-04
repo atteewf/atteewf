@@ -1,12 +1,13 @@
 # 👋 Hello, I'm Seb
-Frontend Developer specialized in **React, TypeScript and modern web interfaces**.
-Currently building personal projects and strengthening my frontend architecture knowledge.
+Frontend Developer specialized in **React, Next.js and TypeScript for modern web interfaces**.
+Currently building real-world projects and deepening my fullstack knowledge.
 
 ---
 
 ## 🚀 Tech Stack
 **Frontend**
-React · TypeScript · JavaScript · HTML / CSS
+React · TypeScript · Next.js · JavaScript · HTML / CSS
+
 
 **Tools**
 Git / GitHub · Vite · Vercel · Jest
@@ -17,6 +18,7 @@ Git / GitHub · Vite · Vercel · Jest
 
 | Projet | Demo | Code |
 |--------|------|------|
+| JGS-ELEC — Client project, live production site —  | [▶ Live]([https://www.jgs-elec.com/]) | [GitHub]([https://github.com/atteewf/jgs-elec]) |
 | React Room Booking App | [▶ Live](https://react-reservation-salle.vercel.app) | [GitHub](https://github.com/atteewf/react-reservation-salle) |
 | TypeScript Emoji Tracker | [▶ Live](https://typescript-emoji-tracker.vercel.app) | [GitHub](https://github.com/atteewf/typescript-emoji-tracker) |
 | React Portfolio Management | [▶ Live](https://gestion-portefeuille-teal.vercel.app/) | [GitHub](https://github.com/atteewf/gestion-portefeuille) |
@@ -24,9 +26,9 @@ Git / GitHub · Vite · Vercel · Jest
 ---
 
 ## 🎯 Currently Learning
+* Next.js 15 — App Router, Server Actions, RSC
 * Advanced TypeScript patterns
 * Testing with Jest & React Testing Library
-* Frontend architecture and best practices
 
 ---
 
